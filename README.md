@@ -8,5 +8,4 @@
 🎯 Goal: Become a data-driven problem solver & work with top data teams  
 📢 Open to collaborations on data analysis & tech projects  
 🚀 **Connect with me:**  
-[![LinkedIn](www.linkedin.com/in/anyinoluwa-88250323a)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](your-twitter-url) 
+[![LinkedIn](www.linkedin.com/in/anyinoluwa-88250323a)   
