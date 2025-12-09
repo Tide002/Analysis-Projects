@@ -1,7 +1,7 @@
 # Hi, I'm Tide! 👋  
  📊 Data Analyst  
 
-🌱 Currently learning: Power BI, Python and R programming language  
+🌱 Currently learning: Power BI, Excel, SQL and Python programming language.
 📊 Passionate about turning raw data into actionable insights  
 🔍 Exploring data-driven decision-making & visualization  
 
